@@ -26,9 +26,9 @@ Used **Cards** to display key metrics and **Tables** to provide detailed, sorted
  
 ##  Features 
 - Job market trends visualization (monthly job counts).
--  - Salary comparisons (hourly vs yearly).
-   -  - Drill-through for Data Engineer, Data Analyst, Data Science role...
-      -  - Global job distribution map.
+- - Salary comparisons (hourly vs yearly).
+   - - Drill-through for Data Engineer, Data Analyst, Data Science role...
+      - - Global job distribution map.
          - - Job type breakdown (full-time vs contract).
            - - Platform analysis (LinkedIn, Indeed, etc.).
 
@@ -40,15 +40,21 @@ Used **Cards** to display key metrics and **Tables** to provide detailed, sorted
 <img width="866" height="486" alt="project page 1" src="https://github.com/user-attachments/assets/06969e9e-3afa-4102-8c76-0ba7579717fe" />
 
 
+
   This is your mission control for the data job market in 2024. It brings together the essentials—total job count, median salaries, top job titles, and monthly trends—so you can quickly grasp how demand, pay, and role popularity are shifting at a glance.
-  
+
+---
+
 ### Page 2: Job Title Drill Through
 
 
 <img width="867" height="483" alt="project page 2" src="https://github.com/user-attachments/assets/bb3bcffe-869e-474a-9c57-da92b4e0bda0" />
 
 
+
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+---
 
 ##  Technical Highlights 
 
