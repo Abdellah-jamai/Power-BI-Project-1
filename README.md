@@ -41,7 +41,7 @@ Used **Cards** to display key metrics and **Tables** to provide detailed, sorted
 
 
 
-  This is your mission control for the data job market in 2024. It brings together the essentials—total job count, median salaries, top job titles, and monthly trends—so you can quickly grasp how demand, pay, and role popularity are shifting at a glance.
+ - This is your mission control for the data job market in 2024. It brings together the essentials—total job count, median salaries, top job titles, and monthly trends—so you can quickly grasp how demand, pay, and role popularity are shifting at a glance.
 
 ---
 
@@ -52,7 +52,7 @@ Used **Cards** to display key metrics and **Tables** to provide detailed, sorted
 
 
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+- This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
 ---
 
